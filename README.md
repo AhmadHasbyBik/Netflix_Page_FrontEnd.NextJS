@@ -5,7 +5,7 @@
 
 Creating a Netflix website front-end with Next.js and Material UI involves the following steps:
 
-
+1.Create a Next.js project: The first step is to create a new Next.js project using the command npx create-next-app. This will create a new project with all the necessary configuration files and folders.
 
 2.Install Material UI: Install Material UI using npm or yarn package manager. Material UI provides a wide range of pre-built components that can be used to design the Netflix website front-end.
 
