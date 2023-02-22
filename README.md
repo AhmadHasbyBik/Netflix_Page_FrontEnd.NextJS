@@ -23,6 +23,6 @@ Creating a Netflix website front-end with Next.js and Material UI involves the f
 
 9.Implement server-side rendering: Next.js allows for server-side rendering, which can improve the website's performance and SEO. You can implement server-side rendering by creating API routes that fetch movie data and render it on the server-side.
 
-
+10.Style the website: Once the layout and components are in place, you can style the Netflix website front-end using CSS or Material UI's built-in styling options.
 
 Overall, using Next.js and Material UI makes designing the Netflix website front-end a lot easier and faster, as it provides a wide range of pre-built components and server-side rendering capabilities. With a little bit of creativity and attention to detail, you can create a visually appealing and functional Netflix front-end.
