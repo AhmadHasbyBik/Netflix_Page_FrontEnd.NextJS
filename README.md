@@ -17,7 +17,7 @@ Creating a Netflix website front-end with Next.js and Material UI involves the f
 
 6.Add the movie carousel: The movie carousel is one of the key components of the Netflix website front-end. This can be achieved by using the Material UI Carousel component. The carousel can be populated with movie images and information using the Material UI Card component.
 
-7.Design the footer: The footer section of the Netflix website can be designed using the Material UI BottomNavigation component. This component provides a customizable navigation bar that can be used to display social media links, terms of service, and other footer content.
+7.Design the footer: The footer section of the Netflix website can be designed using the Material UI Bottom Navigation component. This component provides a customizable navigation bar that can be used to display social media links, terms of service, and other footer content.
 
 8.Create pages: Next.js allows you to create pages that can be easily navigated to using client-side routing. You can create a home page, movie details page, and other necessary pages for the Netflix website.
 
