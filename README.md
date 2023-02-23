@@ -1,5 +1,5 @@
-                                          SCREENSHOT THE PROGRAM
-                                                by Abeeek
+                                        SCREENSHOT THE PROGRAM
+                                              by Abeeek
                                             
 <img width="1280" alt="Jepretan Layar 2023-02-21 pukul 16 46 08" src="https://user-images.githubusercontent.com/91450054/220314856-a9f7c351-5e66-4187-9732-f8a2c4044d70.png">
 
@@ -7,7 +7,7 @@ Creating a Netflix website front-end with Next.js and Material UI involves the f
 
 1.Create a Next.js project: The first step is to create a new Next.js project using the command npx create-next-app. This will create a new project with all the necessary configuration files and folders.
 
-2.Install Material UI: Install Material UI using npm or yarn package manager. Material UI provides a wide range of pre-built components that can be used to design the Netflix website front-end.
+2.Install Material UI: Install Material UI using npm or yarn package manager. Material UI provides a wide range of pre-built components that can be used to design the Netflix website frontend.
 
 3.Create the layout: The layout of the Netflix website can be designed using the grid system provided by Material UI. You can create a container and then use the grid to create rows and columns to position the different components on the page.
 
@@ -25,4 +25,4 @@ Creating a Netflix website front-end with Next.js and Material UI involves the f
 
 10.Style the website: Once the layout and components are in place, you can style the Netflix website front-end using CSS or Material UI's built-in styling options.
 
-Overall, using Next.js and Material UI makes designing the Netflix website front-end a lot easier and faster, as it provides a wide range of pre-built components and server-side rendering capabilities. With a little bit of creativity and attention to detail, you can create a visually appealing and functional Netflix front-end.
+Overall, using Next.js and Material UI makes designing the Netflix website front-end a lot easier and faster, as it provides a wide range of pre-built components and server-side rendering capabilities. With a little bit of creativity and attention to detail, you can create a visually appealing and functional Netflix frontend.
