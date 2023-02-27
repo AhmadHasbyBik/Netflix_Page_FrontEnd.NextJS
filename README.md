@@ -8,7 +8,7 @@ hhhh
 pppp
 qqqqq
 ]]]]
-[[[[
+[[[[====
 
 1.Create a Next.js project: The first step is to create a new Next.js project using the command npx create-next-app. This will create a new project with all the necessary configuration files and folders.
 
